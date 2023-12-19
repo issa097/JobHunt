@@ -14,9 +14,10 @@ JobHunt is a comprehensive platform designed to facilitate professional networki
   - Node.js
 
 - **Database:**
-  - PostgreSQL
+  - MongoDB
 
 - **Authentication:**
   - Firebase
+  - JWT
 
 ## Additional Resources
